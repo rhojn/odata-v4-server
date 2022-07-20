@@ -1,5 +1,5 @@
 {
-  "name": "@cognigy/odata-v4-server-tls-support",
+  "name": "@rhojn/odata-v4-server",
   "version": "0.2.16",
   "description": "OData V4 Server",
   "main": "build/lib/index.js",
@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cognigy/odata-v4-server.git"
+    "url": "git+https://github.com/rhojn/odata-v4-server.git"
   },
   "keywords": [
     "OData",
@@ -75,9 +75,9 @@
   "author": "Cognigy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cognigy/odata-v4-server/issues"
+    "url": "https://github.com/rhojn/odata-v4-server/issues"
   },
-  "homepage": "https://github.com/cognigy/odata-v4-server#readme",
+  "homepage": "https://github.com/rhojn/odata-v4-server#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
